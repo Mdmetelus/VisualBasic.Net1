@@ -1,0 +1,11 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\bin\Debug\Chapter2.3 Exersize38.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\bin\Debug\Chapter2.3 Exersize38.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\bin\Debug\Chapter2.3 Exersize38.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\bin\Debug\Chapter2.3 Exersize38.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\obj\Debug\Chapter2.3 Exersize38.vbprojResolveAssemblyReference.cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\obj\Debug\Chapter2._3_Exersize38.frmTextBox.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\obj\Debug\Chapter2._3_Exersize38.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\obj\Debug\Chapter2.3 Exersize38.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\obj\Debug\Chapter2.3 Exersize38.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\obj\Debug\Chapter2.3 Exersize38.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter2.3 Exersize38\Chapter2.3 Exersize38\obj\Debug\Chapter2.3 Exersize38.pdb

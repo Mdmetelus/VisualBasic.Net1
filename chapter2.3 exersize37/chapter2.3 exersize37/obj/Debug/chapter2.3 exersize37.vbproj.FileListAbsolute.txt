@@ -1,0 +1,11 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\bin\Debug\chapter2.3 exersize37.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\bin\Debug\chapter2.3 exersize37.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\bin\Debug\chapter2.3 exersize37.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\bin\Debug\chapter2.3 exersize37.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\obj\Debug\chapter2.3 exersize37.vbprojResolveAssemblyReference.cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\obj\Debug\chapter2._3_exersize37.frmQuote.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\obj\Debug\chapter2._3_exersize37.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\obj\Debug\chapter2.3 exersize37.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\obj\Debug\chapter2.3 exersize37.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\obj\Debug\chapter2.3 exersize37.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize37\chapter2.3 exersize37\obj\Debug\chapter2.3 exersize37.pdb

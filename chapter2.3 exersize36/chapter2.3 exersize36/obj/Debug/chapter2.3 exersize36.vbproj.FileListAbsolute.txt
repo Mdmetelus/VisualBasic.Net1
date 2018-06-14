@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\bin\Debug\chapter2.3 exersize36.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\bin\Debug\chapter2.3 exersize36.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\bin\Debug\chapter2.3 exersize36.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\bin\Debug\chapter2.3 exersize36.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\obj\Debug\chapter2._3_exersize36.frm123.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\obj\Debug\chapter2._3_exersize36.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\obj\Debug\chapter2.3 exersize36.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\obj\Debug\chapter2.3 exersize36.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\obj\Debug\chapter2.3 exersize36.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\chapter2.3 exersize36\chapter2.3 exersize36\obj\Debug\chapter2.3 exersize36.pdb
